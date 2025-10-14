@@ -1,2 +1,6 @@
 configuracion:
   mensaje: "Hola desde GitHub Config Server en DEV"
+  
+config.security.oauth.client.id
+config.security.oauth.client.secret
+config.security.oauth.jwt.key
